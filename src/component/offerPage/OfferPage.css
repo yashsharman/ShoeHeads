@@ -1,0 +1,15 @@
+.OfferPage{
+    height: 14rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+.thinking-animation{
+    width: 40%;
+    height: 100%;
+}
+.thinking-info{
+    text-align: left;
+}

@@ -1,0 +1,9 @@
+.ProductContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4rem;
+    margin-top: 4rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
